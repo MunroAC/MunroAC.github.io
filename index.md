@@ -10,7 +10,7 @@ A final year project by **Munro Amarasai Cockburn**, for the BSc (Hons) Degree i
 
 ## Introduction
 
-[cite_start]In an ever more technologically reliant world, the automotive vehicle has embraced the digital age[cite: 72]. [cite_start]The rise of electric and connected vehicles introduces advanced features like self-driving capabilities and sophisticated infotainment systems, but also significant cybersecurity risks[cite: 73, 74, 82]. [cite_start]This project assesses the cybersecurity vulnerabilities of modern vehicles by using common penetration testing methods to help manufacturers identify weaknesses and enhance vehicle security[cite: 90, 91].
+In an ever more technologically reliant world, the automotive vehicle has embraced the digital age. The rise of electric and connected vehicles introduces advanced features like self-driving capabilities and sophisticated infotainment systems, but also significant cybersecurity risks. This project assesses the cybersecurity vulnerabilities of modern vehicles by using common penetration testing methods to help manufacturers identify weaknesses and enhance vehicle security.
 
 ***
 
