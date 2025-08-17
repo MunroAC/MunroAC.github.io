@@ -35,8 +35,8 @@ This project uses a hybrid of **Agile and Waterfall** project management methodo
 **M5StickC PLUS2**: A small, programmable IoT device used to create the malicious WiFi network.
 **Keyless Entry System**: A generic system to simulate a vehicle's locking mechanism in a controlled environment.
 
-![Flipper Zero](assests/imgs/flipper-zero.png)
-![M5StickC PLUS2](assests/imgs/m5stick.png)
+![Flipper Zero](assests/imgs/Flipper)
+![M5StickC PLUS2](assests/imgs/M5stick)
 
 ---
 
@@ -50,7 +50,7 @@ This test demonstrates how an attacker can capture the radio frequency signal fr
 2.  **Signal Capture**: The Flipper Zero, running Momentum firmware, was used to listen for and record the unlock signal from the key fob.
 3.  **Execution**: The captured signal was then re-transmitted by the Flipper Zero, successfully unlocking the system.
 
-![Circuit for Replay Attack](assests/imgs/circuit-replay.png)
+![Circuit Diagram](assests/imgs/Diagram)
 ![Successful Unlock with Flipper Zero](assests/imgs/successful-unlock.png)
 
 > This demonstrates a significant vulnerability in older vehicles that use fixed-code keyless systems, highlighting the ease with which such an attack can be performed.
@@ -63,7 +63,7 @@ This scenario simulates an attacker creating a fake public WiFi network on publi
 2.  **Portal Setup**: An "Evil Portal" was created, broadcasting a convincing SSID like "TFL Free WiFi" to lure unsuspecting victims.
 3.  **Credential Theft**: When a user connects, they are presented with a fake login page (e.g., a Google sign-in page). Any credentials entered are captured and stored for the attacker to retrieve.
 
-![Bruce Firmware on M5StickC PLUS2](assests/imgs/bruce-m5stick.png)
+![Bruce Firmware on M5StickC PLUS2](assests/imgs/Bruce-wifi)
 ![Fake Login Page](assests/imgs/fake-login.png)
 
 ---
