@@ -35,8 +35,8 @@ This project uses a hybrid of **Agile and Waterfall** project management methodo
 **M5StickC PLUS2**: A small, programmable IoT device used to create the malicious WiFi network.
 **Keyless Entry System**: A generic system to simulate a vehicle's locking mechanism in a controlled environment.
 
-![Flipper Zero](https://github.com/MunroAC/MunroAC.github.io/blob/main/assests/imgs/flipper-zero.png)
-![M5StickC PLUS2](https://github.com/MunroAC/MunroAC.github.io/blob/main/assests/imgs/m5stick.png)
+![Flipper Zero](assests/imgs/flipper-zero.png)
+![M5StickC PLUS2](assests/imgs/m5stick.png)
 
 ---
 
